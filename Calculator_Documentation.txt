@@ -1,0 +1,8 @@
+This document and program has been made by Rayden King using Python and Notepad++.
+
+In order for this calculator to work:
+	1. The file must be comma separated values (.csv)
+	2. The first row should be your headings.
+	3. Date must be the first column, time must be the second column, and the clock must be the third.
+	4. The amount of times clocked in/out must be equal.
+	5. The time must be used in 24 hour format.
